@@ -1,0 +1,17 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    font-size: 24px;
+}
+/* p:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+#first,#second{
+    color: blue;
+}
+
+.purple{
+    color: rgb(222, 229, 20) ;
+} 

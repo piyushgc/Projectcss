@@ -1,0 +1,13 @@
+body{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: darkcyan;
+    background-color: rgb(41, 202, 255);
+}
+article{
+    background-color: rgb(102, 110, 110);
+    padding: 40px;
+    margin: 40px;
+    border-radius: 20px;
+}
